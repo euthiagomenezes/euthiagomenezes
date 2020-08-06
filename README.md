@@ -1,4 +1,8 @@
 ### Hi there 👋
+Eu sou Thiago Menezes, 35 anos, geminiano, carioca, solteiro e vivo no Rio de Janeiro.
+Estou retomando minha carreira de desenvolvedor. 
+Atualmente estou estudando HTML, CSS, Javascript, PHP e Python.
+Meus contatos são euthiagomenezes@gmail.com ou instagram.com/euthiagomenezes
 
 <!--
 **euthiagomenezes/euthiagomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
