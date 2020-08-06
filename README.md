@@ -1,8 +1,8 @@
 ### Hi there 👋
 Eu sou Thiago Menezes, 35 anos, geminiano, carioca, solteiro e vivo no Rio de Janeiro.
-Estou retomando minha carreira de desenvolvedor. 
+Após alguns anos longe de TI, estou retomando minha carreira de desenvolvedor. Possuo experiência como Consultor SAP MM/PS
 Atualmente estou estudando HTML, CSS, Javascript, PHP e Python.
-Meus contatos são euthiagomenezes@gmail.com ou instagram.com/euthiagomenezes
+Meus contatos são email: euthiagomenezes@gmail.com Instagram: www.instagram.com/euthiagomenezes Linkedin: www.linkedin.com/in/menezesthiago/
 
 <!--
 **euthiagomenezes/euthiagomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
